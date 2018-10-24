@@ -5,6 +5,8 @@
 [![Build Status](https://travis-ci.org/LoopKit/Loop.svg?branch=master)](https://travis-ci.org/LoopKit/Loop)
 [![Join the chat at https://gitter.im/LoopKit/Loop](https://badges.gitter.im/LoopKit/Loop.svg)](https://gitter.im/LoopKit/Loop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![DepShield Badge](https://depshield.sonatype.org/badges/oymo/Loop/depshield.svg)](https://depshield.github.io)
+
 Loop is an app template for building an automated insulin delivery system. It is a stone resting on the boulders of work done by many others.
 
 Loop is built on top of [LoopKit](https://github.com/LoopKit/LoopKit). LoopKit is a set of frameworks that provide data storage, retrieval, and calculation, as well as boilerplate view controllers used in Loop.
